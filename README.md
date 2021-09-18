@@ -1,5 +1,4 @@
-## Hey there,
-## Im jordan Linton
+## Hey, Im jordan Linton & welcome to my github
 
 <!--
 **Jordaneddielinton93/Jordaneddielinton93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
