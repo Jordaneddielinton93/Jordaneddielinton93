@@ -1,4 +1,4 @@
-## Hey, Im Jordan Linton & Welcome to my githubpage
+## <img src="https://img.icons8.com/cute-clipart/64/000000/bookmark.png"/> Hey, Im Jordan Linton. Welcome to my Github-Page <img src="https://img.icons8.com/cute-clipart/64/000000/bookmark.png"/>
 
 <!--
 **Jordaneddielinton93/Jordaneddielinton93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
