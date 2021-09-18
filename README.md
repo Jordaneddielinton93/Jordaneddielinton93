@@ -1,7 +1,7 @@
 ## <img src="https://img.icons8.com/cute-clipart/64/000000/bookmark.png"/> Hey, Im Jordan Linton. Welcome to my Github-Page <img src="https://img.icons8.com/cute-clipart/64/000000/bookmark.png"/>
 
 ### My Skills
-<img height="60px" src="https://img.icons8.com/color/48/000000/html-5--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/><img height="60px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img height="60px" src="https://img.icons8.com/color/48/000000/html-5--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/css3.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/><img height="60px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/firebase.png"/><img height="60px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/><img height="60px" src="https://img.icons8.com/fluency/48/000000/adobe-after-effects.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 <!--
 **Jordaneddielinton93/Jordaneddielinton93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
