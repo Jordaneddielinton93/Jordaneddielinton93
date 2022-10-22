@@ -9,8 +9,8 @@
 A Humble driven overworking web-developer who spends his whole day everyday building beautiful responsive web-applications/web-sites. successfully advancing my knowledge of advanced coding techniques with the use of online courses and video. A User expirence is my first and formost thought throughout all of my applications , ensuring to make the best application I possibly can.
 🌱 Teaching at School of Code and via my Tutoring sessions on my website has given me the opportunity to really understand the fudementals that to javascript making everything I learn that much easier to understand in the long run .
 </p>
-🚀  In my free time I write blogs and create usefull videos for other developers along side learning the latest tech that peak my interest.🚀 
 
+🚀  I write blogs and create usefull videos for other developers & learning the latest tech that interest me.🚀 
 
 ---
 
