@@ -1,7 +1,7 @@
 
-<h2 align="center">Hey, Im Jordan Linton, A full stack code hungry web-dev </h2>
+<h2 align="center">Hey, Im Jordan Linton, A full stack code hungry web-dev</h2>
 
-<h4 align="center">👋 Greeting 👋 </h4>
+<h4 align="center">👋 Greeting's 👋 </h4>
 
 
 
@@ -10,7 +10,9 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 🌱 Teaching at School of Code and via my Tutoring sessions on my website has given me the opportunity to really understand the fudementals that to javascript making everything I learn that much easier to understand in the long run .
 </p>
 
+<p align="center">
 🚀  I write blogs and create usefull videos for other developers & learning the latest tech that interest me.🚀 
+</p>
 
 ---
 
