@@ -31,7 +31,7 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 
 
 <div style="display:flex; justify-content:center; "}>
-  <a  href="www.linkedin.com/in/jordan-e-linton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <h1 align="center">Flagship Projects </h1>
 
 <div style="height:600px; width:600px;">
@@ -77,7 +77,7 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 
 <img src="https://www.codewars.com/users/Jordanlinton93/badges/large"/>
 
-
+  <a  href="www.linkedin.com/in/jordan-e-linton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 
