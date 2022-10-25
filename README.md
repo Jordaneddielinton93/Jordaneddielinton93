@@ -40,13 +40,13 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
     <td>1. Freelance Portfolio</td>
     <td><a href="https://github.com/Jordaneddielinton93/Freelance-Portfolio-Website">Github</td>
     <td><a href="https://jordansfreelancing.co.uk/">Demo</td>
-    <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/> Node-Send-grid<br/> Paypal-Calandly<br/>Figma</td>
+    <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>Styled-components<br/> Node-Send-grid<br/> Paypal-Calandly<br/>Figma</td>
   </tr>
   <tr>
     <td>2. Italian Resturant</td>
     <td><a href="https://github.com/Jordaneddielinton93/italian-resturant-front-end">Github</td>
     <td><a href="https://italian-resturant-front-end.vercel.app/">Demo</td>
-    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>  Figma, </td>
+    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Local-Storage<br/>  Figma, </td>
   </tr>
 <tr>
     <td>3. Gro-Pro - Team Project</td>
@@ -54,6 +54,14 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
     <td><a href="https://bike-man-dan-wheeldeal.netlify.app/">Demo</td>
     <td>React <br/> Google maps </td>
   </tr>
+
+<tr>
+    <td>3. Portfolio v2</td>
+    <td>Github</td>
+    <td><a href="https://jordans-new-portfolio.netlify.app/">Demo</td>
+    <td>React</td>
+  </tr>
+
 </table>
 
 </div>
