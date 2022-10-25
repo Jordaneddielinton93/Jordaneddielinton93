@@ -53,7 +53,7 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
     <td>2. Italian Resturant</td>
     <td><a href="https://github.com/Jordaneddielinton93/italian-resturant-front-end">Github</td>
     <td><a href="https://italian-resturant-front-end.vercel.app/">Demo</td>
-    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Local-Storage<br/>  Figma, </td>
+    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Axios<br/> Local-Storage<br/>  Figma, </td>
   </tr>
 <tr>
     <td>3. Gro-Pro - Team Project</td>
