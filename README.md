@@ -1,4 +1,10 @@
 
+
+
+
+ </div>
+
+
 <h2 align="center">Hey, Im Jordan Linton, A full stack code hungry web-dev</h2>
 
 <h4 align="center">👋 Greeting's 👋 </h4>
@@ -25,6 +31,7 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 
 
 <div style="display:flex; justify-content:center; "}>
+  <a  href="www.linkedin.com/in/jordan-e-linton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <h1 align="center">Flagship Projects </h1>
 
 <div style="height:600px; width:600px;">
