@@ -22,9 +22,55 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 <img height="60px" src="https://img.icons8.com/color/48/000000/html-5--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/css3.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/><img height="60px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/firebase.png"/><img height="60px" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/><img height="60px" src="https://img.icons8.com/fluency/48/000000/adobe-after-effects.png"/><img height="60px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img height="60px" src="https://img.icons8.com/fluency/344/node-js.png"/>
 <img height="60px" src="https://img.icons8.com/color/344/git.png"/>
-<!--
+
+
+<div style="display:flex; justify-content:center; "}>
+<h1 align="center">Projects </h1>
+
+<div style="height:600px; width:600px;">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th></th>
+    <th></th>
+    <th>Tech Used</th>
+  </tr>
+  <tr>
+    <td>Freelance Portfolio</td>
+    <td><a href="https://github.com/Jordaneddielinton93/Freelance-Portfolio-Website">Github</td>
+    <td><a href="https://jordansfreelancing.co.uk/">Demo</td>
+    <td>Next.js, Contentfull CMS</td>
+  </tr>
+  <tr>
+    <td>Italian Resturant</td>
+    <td><a href="https://github.com/Jordaneddielinton93/italian-resturant-front-end">Github</td>
+    <td><a href="https://italian-resturant-front-end.vercel.app/">Demo</td>
+    <td>Next.js, Typescript, Redux-Toolkit, Chakra.ui , Jest, PostgreSQL,  Figma, </td>
+  </tr>
+</table>
 
 </div>
+
+
+
+
+
+
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Jordaneddielinton93/Jordaneddielinton93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
