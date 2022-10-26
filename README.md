@@ -47,7 +47,7 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
     <td>1. Freelance Portfolio</td>
     <td><a href="https://github.com/Jordaneddielinton93/Freelance-Portfolio-Website">Github</td>
     <td><a href="https://jordansfreelancing.co.uk/">Demo</td>
-    <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>Styled-components<br/> Node-Send-grid<br/> Paypal-Calandly<br/>Figma</td>
+    <td>Next.js<br/> Contentfull CMS<br/> Google-analytics<br/>CSS-Modules<br/> Node-Send-grid<br/> Stripe-Calandly<br/>Figma</td>
   </tr>
   <tr>
     <td>2. Italian Resturant</td>
