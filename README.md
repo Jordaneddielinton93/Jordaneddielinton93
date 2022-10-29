@@ -59,7 +59,7 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
     <td>2. Tetris-Typescript</td>
     <td><a href="https://github.com/Jordaneddielinton93/Tetris-With-Typescript">Github</td>
     <td><a href="https://testris-with-jordan.netlify.app/">Demo</td>
-    <td>Next.js<br/> Typescript<br/>  </td>
+    <td>React.js<br/> Typescript<br/>  </td>
   </tr>
 <tr>
     <td>3. Gro-Pro - Team Project</td>
