@@ -58,29 +58,29 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 
 
 <tr>
-    <td>2. Visions of Peace</td>
+    <td>3. Visions of Peace</td>
     <td><a href="[https://github.com/Jordaneddielinton93/italian-resturant-front-end](https://github.com/Jordaneddielinton93/visions-of-Peace)">Github</td>
     <td><a href="https://italian-resturant-front-end.vercel.app/](https://visions-of-peace.netlify.app/">Demo</td>
-    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/>Material.ui<br/> Jest<br/> Contentful-cms <br/>useQuery<br/> Local-Storage<br/>  Figma, </td>
+    <td>Next.js<br/> Typescript<br/>Material.ui<br/> Jest<br/> Contentful-cms <br/>useQuery<br/> Local-Storage<br/>  Figma, </td>
   </tr>
 
 
 
  <tr>
-    <td>2. Tetris-Typescript</td>
+    <td>4. Tetris-Typescript</td>
     <td><a href="https://github.com/Jordaneddielinton93/Tetris-With-Typescript">Github</td>
     <td><a href="https://testris-with-jordan.netlify.app/">Demo</td>
     <td>React.js<br/> Typescript<br/>  </td>
   </tr>
 <tr>
-    <td>3. Gro-Pro - Team Project</td>
+    <td>5. Gro-Pro - Team Project</td>
     <td>Github</td>
     <td><a href="https://bike-man-dan-wheeldeal.netlify.app/">Demo</td>
     <td>React <br/> Google maps </td>
   </tr>
 
 <tr>
-    <td>3. Portfolio v2</td>
+    <td>6. Portfolio v2</td>
     <td>Github</td>
     <td><a href="https://jordans-new-portfolio.netlify.app/">Demo</td>
     <td>React</td>
