@@ -55,6 +55,17 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
     <td><a href="https://italian-resturant-front-end.vercel.app/">Demo</td>
     <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/> Chakra.ui<br/> Jest<br/> PostgreSQL<br/>Axios<br/> Local-Storage<br/>  Figma, </td>
   </tr>
+
+
+<tr>
+    <td>2. Visions of Peace</td>
+    <td><a href="[https://github.com/Jordaneddielinton93/italian-resturant-front-end](https://github.com/Jordaneddielinton93/visions-of-Peace)">Github</td>
+    <td><a href="https://italian-resturant-front-end.vercel.app/](https://visions-of-peace.netlify.app/">Demo</td>
+    <td>Next.js<br/> Typescript<br/> Redux-Toolkit<br/>Material.ui<br/> Jest<br/> Contentful-cms <br/>useQuery<br/> Local-Storage<br/>  Figma, </td>
+  </tr>
+
+
+
  <tr>
     <td>2. Tetris-Typescript</td>
     <td><a href="https://github.com/Jordaneddielinton93/Tetris-With-Typescript">Github</td>
