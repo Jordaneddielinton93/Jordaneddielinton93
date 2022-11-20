@@ -59,8 +59,8 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 
 <tr>
     <td>3. Visions of Peace</td>
-    <td><a href="[https://github.com/Jordaneddielinton93/italian-resturant-front-end](https://github.com/Jordaneddielinton93/visions-of-Peace)">Github</td>
-    <td><a href="https://italian-resturant-front-end.vercel.app/](https://visions-of-peace.netlify.app/">Demo</td>
+    <td><a href="https://github.com/Jordaneddielinton93/visions-of-Peace">Github</td>
+    <td><a href="https://visions-of-peace.netlify.app/">Demo</td>
     <td>Next.js<br/> Typescript<br/>Material.ui<br/> Jest<br/> Contentful-cms <br/>useQuery<br/> Local-Storage<br/>  Figma, </td>
   </tr>
 
