@@ -21,7 +21,8 @@ A Humble driven overworking web-developer who spends his whole day everyday buil
 </p>
 
 ---
-<div style="height:2px; width:100%; background:red;" ></div>
+
+<div style="height:2px; width:100%; background-color:red;" ></div>
 
 <h1 align="center">Tools of the Trade </h1>
 
